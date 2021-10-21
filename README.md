@@ -6,6 +6,6 @@ The font is still under construction and is not yet available to use. Here are c
 
 <img src="samples/Foundation_One_current_charset.png" alt="The text 'Quizzical twins proved my hijack bugfix 1234567890' set in the Foundation One font, based on the Apple TV+ series Foundation" title="Characters already completed in the Foundation One font are in black" />
 
-To download the related OFL font based on Foundation's title sequence, visit the <a href="https://github.com/rsperberg/foundation-titles-hand" title="Jump to Foundation Titles repo">Foundation Titles</a> repo here on Github.
+To download the related OFL font based on Foundation&#146;s title sequence, visit the <a href="https://github.com/rsperberg/foundation-titles-hand" title="Jump to Foundation Titles repo">Foundation Titles</a> repo here on Github.
 
 
