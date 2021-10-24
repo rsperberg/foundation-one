@@ -1,4 +1,4 @@
-#About This Font
+# About This Font
 
 The Apple TV+ series Foundation uses related designs for the text used in the logo, in the title sequence, to indicate changes in location or time, for the signage on space ships, for the text displayed on a screen (or projected holographically).
 
