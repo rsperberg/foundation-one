@@ -1,6 +1,6 @@
 # Foundation One
 
-The font design used in Foundation, the Apple TV+ series, to indicate a change in location or time. Released with the Open Font License (OFL).
+The central font design used in Foundation, the Apple TV+ series, to indicate a change in location or time. Released with the Open Font License (OFL).
 
 <img src="samples/Foundation_One_name.png" alt="The name Foundation One is shown in large type on an image showing spaceships attacking a planet, a scene from the Apple TV+ series Foundation — underneath that is a tagline, 'The premier font used across the galaxy'" title="Foundation One, the premier font used across the galaxy">
 
