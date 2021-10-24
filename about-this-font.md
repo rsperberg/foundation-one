@@ -6,4 +6,8 @@ Foundation One is taken from the design most people would associate with the sho
 
 There is not much need for symbols and punctuation in these labels, and not every character or number has been used in the half-season seen so far.  And, of course, no lowercase characters are used. Consequently in the font being produced in this project, the Q, Z, 6 and 8 are conjectures, there are no lowercase letters, and all the symbols and marks of punctuation other than the period and virgule are sheer invention.  Nonetheless, to make the font useful for general purposes, most of the Unicode Basic Latin codeblock is included currently.
 
+Some sample uses:
+
 <img src="samples/Foundation_One_the_Vault.png" alt="The text 'Terminus / the Vault' is set in the Foundation One font, superimposed on a shot of the mysterious Vault depicted in the Apple TV+ series Foundation" title="The mysterious Vault on Terminus, text set in the Foundation One font">
+
+<img src="samples/Foundation_One_Demerzel_and_Dawn.png" alt="The text 'Eto Demerzel & Brother Dawn (Cleon the 13th)' is set in the Foundation One font, superimposed on a shot of the Imperial palace depicted in the Apple TV+ series Foundation" title="Eto Demerzel and Brother Dawn (Cleon the 13th) greeting the ambassadors from Anacreon and Thespis, text set in the Foundation One font">
