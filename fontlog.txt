@@ -1,16 +1,18 @@
 FONTLOG for the Foundation One font
 
-This file provides detailed information on the Foundation One font software. This information should be distributed along with the Foundation One font and any derivative works.
+This file provides detailed information on the Foundation One font software.  This information should be distributed along with the Foundation One font and any derivative works.
 
 Basic Font Information
 
+Foundation One is based on the central font design used in Foundation, the Apple TV+ series, to indicate a change in context, location or time.
+
 Foundation One is a Unicode typeface family that supports all languages that use the Latin script and its variants, and could be expanded to support other scripts.
 
-More specifically, this release of version 0.4 supports the following Unicode ranges: U+0020 - U+007D, U+2013 - U+201D
+More specifically, this release of version 0.4 supports the following Unicode ranges:  U+0020 - U+007D, U+2013 - U+201D
 
 This release contains much of the Basic Latin codebase characters (with the lowercase glyphs being duplicates of the uppercase), as well as various symbols and punctuation located elsewhere, 99 characters (or 101 glyphs, including spaces) in all.
 
-Documentation can be found at github.com/rsperberg/foundation-one
+Documentation and source files can be found at github.com/rsperberg/foundation-one
 
 Foundation One was created using iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com.  The font can also be downloaded from 2ttf.com/BW7GxybNOS0 (the Gallery at 2ttf.com hosts some 65,000 fonts created with iFontMaker that are available for downloading).
 
