@@ -1,6 +1,6 @@
 # Foundation One
 
-The central font design used in Foundation, the Apple TV+ series based on the Asimov books, to indicate a change in context, location or time.  Released with the Open Font License (OFL).
+Based on the central font design used in Foundation, the Apple TV+ series based on the Asimov books, to indicate a change in context, location or time.  Released with the Open Font License (OFL).
 
 <img src="samples/Foundation_One_name.png" alt="The name Foundation One is shown in large type on an image showing spaceships attacking a planet, a scene from the Apple TV+ series Foundation — underneath that is a tagline, 'The premier font used across the galaxy'" title="Foundation One, the premier font used across the galaxy">
 
