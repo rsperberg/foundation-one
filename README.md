@@ -12,4 +12,6 @@ The font is still under construction and not all the characters and numbers (and
 
 As you can see, the font features distinctive S, M, U, W, B, K and G shapes not shared with other typefaces.  Many characters and all the numbers include dots in the design (H, 1, 3) or as a decorative element (A, S, W). 
 
-To download the related OFL font based on Foundation&rsquo;s title sequence, visit the <a href="https://github.com/rsperberg/foundation-titles-hand" title="Jump to Foundation Titles repo">Foundation Titles</a> repo here on Github.
+To download the related OFL font based on Foundation&rsquo;s title sequence, visit the <a href="https://github.com/rsperberg/foundation-titles-hand" title="Jump to Foundation Titles repo">Foundation Titles</a> repo here on GitHub.  A font based on the <a href="https://github.com/rsperberg/foundation-logo" title="Jump to Foundation Logo repo"> Foundation Logo</a> is also in progress, and a <a href="https://github.com/rsperberg/foundation-screen" title="Jump to Foundation Screen repo">font</a> based on the type design seen on computer screens in Foundation is planned.
+
+
